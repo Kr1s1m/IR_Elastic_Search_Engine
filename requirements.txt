@@ -1,0 +1,5 @@
+elasticsearch
+pandas
+sentence_transformers
+ipywidgets
+hf_xet
